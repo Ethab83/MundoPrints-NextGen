@@ -81,14 +81,17 @@ preview:
     enableFrontmatterTags: true
     enableHashesForFMTags: false
 publishing:
+    logoPath: logo.png
     enableFMTitle: true
     enableNoteTitleForLink: true
-    enableMermaid: true
+    # enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     assetsPrefix: /MundoPrints-Visiting.Cards
     copyAssets: true
+    siteIndex: overview
     siteHierarchies:
+        - overview
         - changelog
         - integrations
         - maintinence
@@ -117,4 +120,3 @@ publishing:
     theme: custom
     enableTaskNotes: true
     templateVersion: 0.97.0
-    logo: vault/assets/logo.png

@@ -1,5 +1,4 @@
 # MundoPrints-Visiting Cards
 
-new website for munndoprints visiting card division.
-
-Go to **Issues** to see current progress
+- [Documentation](https://ethab83.github.io/MundoPrints-Visiting.Cards/)
+- [MundoCards.com](https://mundocards.wpcomstaging.com/)

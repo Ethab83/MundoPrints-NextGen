@@ -12,4 +12,6 @@ TODO
 
 ## Integrations
 
-TODO
+![[root.integrations.dokan#plans--pricing]]
+
+![[root.integrations.zoho#plans--pricing]]

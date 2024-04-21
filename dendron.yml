@@ -110,6 +110,7 @@ publishing:
         editBranch: main
         editViewMode: tree
     enablePrettyLinks: true
-    theme: light
+    theme: custom
     enableTaskNotes: true
     templateVersion: 0.97.0
+    logo: vault/assets/logo.png

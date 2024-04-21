@@ -2,7 +2,7 @@
 id: ylznqpn1jrbvdkq1g5ben10
 title: 📃 Overview
 desc: ''
-updated: 1713735594845
+updated: 1713736212471
 created: 1713714630159
 ---
 
@@ -14,14 +14,15 @@ created: 1713714630159
 
 ## Definitions
 
-- **UI**: User Interface
-- **E-commerce**: Electronic commerce
-- **WP**: WordPress
-- **WC**: WooComerce (e-commerce platform on top of WP)
 - **API**: Application Programming Interface
-- **SaaS**: Software as a Service
-- **MVC**: Model, View, Controller
+- **E-commerce**: Electronic commerce
 - **iOS**: iPhone OS (Operating System)
+- **MVC**: Model, View, Controller
+- **MVP**: Minimum Viable Product
+- **SaaS**: Software as a Service
+- **UI**: User Interface
+- **WC**: WooComerce (e-commerce platform on top of WP)
+- **WP**: WordPress
 
 ## Scope
 

@@ -1,8 +1,8 @@
 ---
 id: wn8PE1RhG0znK1alrGFYv
-title: Documentation
+title: MundoCards Documentation
 desc: "Homepage for all MundoCards Documentation"
-updated: 1713669381290
+updated: 1713671356864
 created: 1631901573363
 ---
 
@@ -104,8 +104,7 @@ We based the User interface on MundoPrints.in which is still under development. 
 
 ## Timeframe and Milestones
 
-- By March 10th, we plan on receiving the existing codebase for the old website. This will be our next big milestone
-as it will mark the start of our implementation phase.
+- By March 10th, we plan on receiving the existing codebase for the old website. This will be our next big milestone as it will mark the start of our implementation phase.
     - We initially received the website on March 6th. However there were many limitations with the subscription plan, so after researching possible solutions and deciding that purchasing a higher-tier subscription through WP India. It wasn’t until March 22nd when we received access to the final website.
 - By March 20th, we plan on completing R&D for the existing API’s and databases used, so that we can easily integrate them onto the new website.
     - We were able to research the existing WP plugins by this deadline, though there are extra plugins we have added and have just one more plugin to research.

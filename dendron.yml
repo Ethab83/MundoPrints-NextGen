@@ -82,6 +82,7 @@ preview:
     enableHashesForFMTags: false
 publishing:
     logoPath: logo.png
+    siteFaviconPath: favicon.webp
     enableFMTitle: true
     enableNoteTitleForLink: true
     # enableMermaid: true

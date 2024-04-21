@@ -90,6 +90,11 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
+        - changelog
+        - integrations
+        - maintinence
+        - management
+        - pricing
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://ethab83.github.io

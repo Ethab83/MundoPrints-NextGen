@@ -1,6 +1,6 @@
 ---
 id: wjh4t42tqvskw52h06wbtvi
-title: Zoho Campaigns
+title: Zoho
 desc: ''
 updated: 1713670009205
 created: 1713669471670

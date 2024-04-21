@@ -2,13 +2,13 @@
 id: l1udgesawkypusqo4dn65fd
 title: Meeting Notes
 desc: ''
-updated: 1713736805915
+updated: 1713743487957
 created: 1713736253298
 ---
 
 > **Note**: Many meetings were either recorded or were simply not tracked with meeting notes, this is not a conprehensive list.
 
-New to old
+Sorted new to old
 
 ## April 15
 

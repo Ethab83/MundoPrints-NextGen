@@ -2,13 +2,15 @@
 id: xcq01jjbhv5pgrybxlh2h9e
 title: Design
 desc: ''
-updated: 1713743108834
+updated: 1713743462994
 created: 1713732581315
 ---
 
 We are first designing the actual UI and customization features with all the possible detailing to make the implementation of the front end easier. We are also coming up with the flow charts and discussing on the architecture and the required technologies to implement the back-end.
 
 ## Use Cases
+
+![Use Case Diagram](assets/usecase_diagram.png)
 
 The main clients of the software are small businesses and local printers in emerging markets. We connect small businesses to the local printers that are partnered with our site, allowing for operation sustainability. We’re also lookingto implement a phone application version of the website for Android/iOS, making it easier and more accessible to small businesses. The payment method implementation allows on-demand business card printing.
 
@@ -31,15 +33,14 @@ Use cases:
 - **Manage Order**: Local printer vendors access the system to manage and process the orders received.
 - **Receive Order**: After an order is processed, the local printer vendor updates the system, marking the order as complete when it’s ready for delivery or pickup.
 
-![Use Case Diagram](assets/usecase_diagram.png)
-
 ## Architecture
+
+![Activity Diagram](assets/activity_diagram.png)
 
 We chose MVC architecture because it made the most sense for this application. The website is a type of online shopping platform, so it would be useful to have this architecture. The model in this case is a database to store information about customers and printers, as well as inventory, and available designs. As for deployment, it will be hosted on WP.
 
 The exact implementation of the architecture is managed by WP. We chose WP because it made the most sense to copy the existing website (for other printed products) [MundoPrints.in](https://www.mundoprints.in/), to [MundoCards.com](https://mundocards.wpcomstaging.com/) and change it to meet the requirements
 
-![Activity Diagram](assets/activity_diagram.png)
 
 ## Technologies and Implementation Details
 

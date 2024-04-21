@@ -1,8 +1,8 @@
 ---
 id: 7l4pd9zwq7dtl7m6e6tyzgh
-title: Pricing
+title: 💵 Pricing
 desc: ''
-updated: 1713731528444
+updated: 1713735543782
 created: 1713665331173
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: gkplhzoc09agzt1ohjkow8v
-title: Changelog
+title: 📋 Changelog
 desc: ''
-updated: 1713665246708
+updated: 1713735606700
 created: 1713665138160
 ---
 

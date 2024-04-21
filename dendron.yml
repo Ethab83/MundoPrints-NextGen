@@ -89,7 +89,6 @@ publishing:
     assetsPrefix: /MundoPrints-Visiting.Cards
     copyAssets: true
     siteHierarchies:
-        - root
         - changelog
         - integrations
         - maintinence

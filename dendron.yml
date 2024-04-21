@@ -93,10 +93,10 @@ publishing:
     siteIndex: overview
     siteHierarchies:
         - overview
-        - changelog
+        # - changelog
         - integrations
         - maintinence
-        - management
+        # - management
         - pricing
     enableSiteLastModified: true
     siteRootDir: docs

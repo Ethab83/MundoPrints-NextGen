@@ -2,9 +2,11 @@
 id: vx480s0jpjrkvm14rhemql6
 title: Integrations
 desc: ''
-updated: 1713717497317
+updated: 1713734073628
 created: 1713665282473
 ---
+
+![Sequence Diagram](assets/sequence_diagram.jpg)
 
 ## E-commerce and Payment
 

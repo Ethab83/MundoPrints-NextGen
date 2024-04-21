@@ -92,7 +92,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: https://{GITHUB_USERNAME}.github.io
+    siteUrl: https://ethab83.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true

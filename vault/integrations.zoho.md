@@ -2,7 +2,7 @@
 id: wjh4t42tqvskw52h06wbtvi
 title: Zoho Campaigns
 desc: ''
-updated: 1713671711863
+updated: 1713718408370
 created: 1713669471670
 ---
 
@@ -16,7 +16,7 @@ for MundoCards.
 
 ## Plans / Pricing
 
-Adapted from [Zoho Campaigns Pricing](https://www.zoho.com/campaigns/pricing.html)
+> Adapted from [Zoho Campaigns Pricing](https://www.zoho.com/campaigns/pricing.html)
 
 The Standard Plan is the cheapest plan which provides automated workflows (i.e. order status updates).
 
@@ -50,7 +50,7 @@ The Standard Plan is the cheapest plan which provides automated workflows (i.e. 
 
 ## Privacy policy
 
-Adapted from [Zoho Campaigns Privacy Policy](https://www.zoho.com/privacy.html)
+> Adapted from [Zoho Campaigns Privacy Policy](https://www.zoho.com/privacy.html)
 
 ### Key Points
 

@@ -2,7 +2,7 @@
 id: vx480s0jpjrkvm14rhemql6
 title: Integrations
 desc: ''
-updated: 1713667982435
+updated: 1713717497317
 created: 1713665282473
 ---
 
@@ -10,7 +10,7 @@ created: 1713665282473
 
 - **Razorpay for WooCommerce**: Payment gateway for transactions.
 - **WooCommerce**: Comprehensive e-commerce platform.
-- **Dokan**: Manages Vendors & provides vendor dashboard.
+- **[[integrations.dokan]]**: Manages Vendors & provides vendor dashboard.
 <!-- - **WC Vendors Marketplace**: Marketplace creation with vendor management. -->
 <!-- - **WC Captcha**: Adds captcha to WooCommerce forms to prevent spam and secure the site from bots. -->
 
@@ -25,11 +25,11 @@ created: 1713665282473
 
 ## Marketing and Customer Engagement
 
-- **Contact Form 7**: Creation of contact forms.
+<!-- - **Contact Form 7**: Creation of contact forms. -->
 - **Mailchimp for WooCommerce**: Email marketing and customer segmentation.
 <!-- - SMSAlert - WooCommerce: SMS notifications for orders and customer engagement. -->
 - **WPForms Lite**: Drag-and-drop form builder for contact and surveys.
-- **Zoho Campaigns**: Convert visitors into leads, sync WooCommerce details, and set up targeted campaigns.
+- **[[integrations.zoho]]**: Convert visitors into leads, sync WooCommerce details, and set up targeted campaigns.
 
 ## Performance and Security
 

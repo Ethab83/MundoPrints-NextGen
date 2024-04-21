@@ -2,7 +2,7 @@
 id: ylznqpn1jrbvdkq1g5ben10
 title: Overview
 desc: ''
-updated: 1713715062477
+updated: 1713717146724
 created: 1713714630159
 ---
 
@@ -14,14 +14,14 @@ created: 1713714630159
 
 ## Definitions
 
-- UI: User Interface
-- E-commerce: Electronic commerce
-- WP: WordPress
-- WC: WooComerce (e-commerce platform on top of WP)
-- API: Application Programming Interface
-- SaaS: Software as a Service
-- MVC: Model, View, Controller
-- iOS: iPhone OS (Operating System)
+- **UI**: User Interface
+- **E-commerce**: Electronic commerce
+- **WP**: WordPress
+- **WC**: WooComerce (e-commerce platform on top of WP)
+- **API**: Application Programming Interface
+- **SaaS**: Software as a Service
+- **MVC**: Model, View, Controller
+- **iOS**: iPhone OS (Operating System)
 
 ## Scope
 
@@ -31,7 +31,7 @@ created: 1713714630159
 
 ## Overview
 
-This project (MundoCards), is for a Software Engineering class project at UMass Boston. Through the MundoCards platform, the user can customize their Business Cards according to their own requirements. Our task is to build an efficient website to incorporate as many customization features as we can for the business cards, 3-D views of the cards, and secured payment process.
+This project (MundoCards), is for a Software Engineering class project at UMass Boston. Through the MundoCards platform, the user can customize their Business Cards according to their own requirements. Our task is to build an efficient website to incorporate as many customization features as we can for the business cards and secured payment process.
 
 ## Limitations
 
@@ -105,8 +105,8 @@ We based the User interface on MundoPrints.in which is still under development. 
 
 ## Timeframe and Milestones
 
-- By March 10th, we plan on receiving the existing codebase for the old website. This will be our next big milestone as it will mark the start of our implementation phase.
+- **March 10th**: recieve the existing codebase for the old website. This will be our next big milestone as it will mark the start of our implementation phase.
     - We initially received the website on March 6th. However there were many limitations with the subscription plan, so after researching possible solutions and deciding that purchasing a higher-tier subscription through WP India. It wasn’t until March 22nd when we received access to the final website.
-- By March 20th, we plan on completing R&D for the existing API’s and databases used, so that we can easily integrate them onto the new website.
+- **March 20th**: complete R&D for the existing integrations/plugins used, so that we can easily integrate them onto the new website.
     - We were able to research the existing WP plugins by this deadline, though there are extra plugins we have added and have just one more plugin to research.
-- By April 25th, we plan on having a MVP for MundoCards.
+- **April 25th**: produce a MVP for MundoCards.

@@ -2,7 +2,7 @@
 id: si16c9gn9c87iwzzvo7rq3r
 title: Dokan
 desc: ''
-updated: 1713717863658
+updated: 1713731054551
 created: 1713669763292
 ---
 
@@ -26,7 +26,7 @@ Pricing is identical in India and the US, however since sales tax is 18% in Indi
 
 The **Business Plan** is the only plan which meets all requirements for MundoCards since it is the cheapest subscription which provides vendor geolocation (which allows customer to search for vendor based on location).
 
-**Price**: 51,788.00 INR / 619.52 USD (18% tax included)
+**Price**: ₹51,788.00 / $619.52 (18% tax included)
 
 **Features**:
 

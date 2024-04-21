@@ -2,7 +2,7 @@
 id: wjh4t42tqvskw52h06wbtvi
 title: Zoho Campaigns
 desc: ''
-updated: 1713718408370
+updated: 1713731089400
 created: 1713669471670
 ---
 
@@ -28,7 +28,7 @@ The Standard Plan is the cheapest plan which provides automated workflows (i.e. 
 
 ### Standard (Recommended)
 
-- Price: 180 INR / 2.16 USD per month
+- Price: ₹180 / $2.16 per month
 - Features:
     - Unlimited emails
     - Advanced ready-made email templates
@@ -37,7 +37,7 @@ The Standard Plan is the cheapest plan which provides automated workflows (i.e. 
 
 ### Professional
 
-- Price: 258.75 INR / 3.10 USD per month
+- Price: ₹258.75 / $3.10 per month
 - Features:
     - Unlimited emails
     - 20 users

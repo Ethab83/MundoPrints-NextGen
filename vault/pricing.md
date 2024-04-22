@@ -2,7 +2,7 @@
 id: 7l4pd9zwq7dtl7m6e6tyzgh
 title: 💵 Pricing
 desc: ''
-updated: 1713818010307
+updated: 1713818829960
 created: 1713665331173
 ---
 
@@ -27,6 +27,10 @@ We are currently using the Creator Plan for WP, without this, we would not have 
 ### Dokan
 
 ![[integrations.dokan#pricing]]
+
+### Fancy Product Designer
+
+![[integrations.fpd]]
 
 ### RazorPay
 

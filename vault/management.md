@@ -1,8 +1,8 @@
 ---
 id: rf2ltui5bb61iqeydzd3obj
-title: 🔨 Management
+title: 🔨  Management
 desc: ''
-updated: 1713804263291
+updated: 1713818918781
 created: 1713665823406
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: vx480s0jpjrkvm14rhemql6
-title: 🔌 Integrations
+title: 🔌  Integrations
 desc: ''
-updated: 1713817912461
+updated: 1713818903097
 created: 1713665282473
 ---
 

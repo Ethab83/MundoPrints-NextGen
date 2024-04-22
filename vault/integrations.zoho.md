@@ -2,17 +2,26 @@
 id: wjh4t42tqvskw52h06wbtvi
 title: Zoho Campaigns
 desc: ''
-updated: 1713731089400
+updated: 1713804123847
 created: 1713669471670
 ---
 
-Zoho campaigns provides automated emails for WooCommerce orders and CRM
+Zoho campaigns provides automated emails for WooCommerce orders
 for MundoCards.
 
 ## Links
 
 - [Dashboard](https://campaigns.zoho.com/campaigns/org849678240/home.do#dashboard)
 - [Automations](https://campaigns.zoho.com/campaigns/org849678240/home.do#automation/advworkflows)
+
+## Key Features
+
+Zoho Campaigns is an integral part of Zoho's suite of business tools, providing robust email marketing solutions designed to enhance sales and maximize user engagement. Below are the key functionalities offered by Zoho Campaigns:
+
+- **Email Campaign Management**: Customize your marketing communications with tailored content that resonates with various customer segments. Utilize advanced conditional workflows to ensure that the right messages reach the right audience at the optimal time.
+- **Integration of Signup Forms**: Easily integrate signup forms into your WordPress site to transform site visitors into newsletter subscribers. These forms are directly linked to your Zoho Campaigns account, allowing for automatic synchronization with your mailing lists.
+- **Automated Workflows with E-commerce Integration**: Zoho Campaigns seamlessly connects with your WooCommerce store, syncing customer data to support enhanced e-commerce marketing strategies. Automated workflows enable the deployment of targeted promotional emails, immediate responses to cart abandonment, and welcoming new customers with customized email series.
+- **CRM System Integration**: Leverage the ability to identify and advance top buyers directly into your CRM system, facilitating improved customer relationship management and targeted marketing initiatives.
 
 ## Plans / Pricing
 

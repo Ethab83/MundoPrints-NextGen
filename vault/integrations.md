@@ -2,7 +2,7 @@
 id: vx480s0jpjrkvm14rhemql6
 title: 🔌 Integrations
 desc: ''
-updated: 1713735829140
+updated: 1713804192227
 created: 1713665282473
 ---
 
@@ -10,8 +10,8 @@ created: 1713665282473
 
 ## E-commerce and Payment
 
-- **Razorpay for WooCommerce**: Payment gateway for transactions.
-- **WooCommerce**: Comprehensive e-commerce platform.
+- **[[integrations.razorpay]]**: Payment gateway for transactions.
+- **[[integrations.woocommerce]]**: Comprehensive e-commerce platform.
 - **[[integrations.dokan]]**: Manages Vendors & provides vendor dashboard.
 <!-- - **WC Vendors Marketplace**: Marketplace creation with vendor management. -->
 <!-- - **WC Captcha**: Adds captcha to WooCommerce forms to prevent spam and secure the site from bots. -->

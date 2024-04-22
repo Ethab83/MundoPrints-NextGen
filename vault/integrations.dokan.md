@@ -2,7 +2,7 @@
 id: si16c9gn9c87iwzzvo7rq3r
 title: Dokan
 desc: ''
-updated: 1713731054551
+updated: 1713804118922
 created: 1713669763292
 ---
 
@@ -17,6 +17,21 @@ Dokan manages vendors and provides the vendor dashboard page. Alternative soluti
     - Set commission
     - Fees
     - Payment options
+
+## Key Features
+
+Dokan is a robust frontend multi-vendor marketplace plugin for WordPress, leveraging WooCommerce to allow users to build their own marketplace. Modeled after major eCommerce platforms like Amazon and eBay, Dokan simplifies the process of creating a comprehensive marketplace, enabling setups in less than 30 minutes. This platform is ideal for launching an eCommerce business, allowing owners to earn through various commission models with support for a range of product types including digital, physical, and variable products.
+
+- **Quick and Easy Setup:** Deploy a fully functional marketplace quickly with a setup process designed to take less than an hour.
+- **Comprehensive Vendor Management:** Each vendor receives a personalized, customizable dashboard for managing their part of the marketplace directly from the frontend.
+- **Advanced Marketplace Features:** Support for unlimited vendors and products, including physical, downloadable, variable, and bookable products through additional integrations like Dokan WC Bookings and Dokan Simple Auctions.
+- **Dynamic Shipping Options:** Vendor-specific shipping controls and integrations with popular shipping platforms like ShipStation, providing tailored shipping solutions.
+- **Multiple Revenue Streams:** Owners can earn through vendor commissions, product-based commissions, and subscription packs for vendor activities.
+- **High Compatibility:** Works seamlessly with over 70+ plugins and 71+ themes, ensuring smooth operation within the WordPress ecosystem.
+- **Mobile App Integration:** Enhances the shopping experience through real-time order tracking and delivery management with the Dokan mobile app.
+- **Community and Support:** Regular updates and access to a dedicated community and extensive documentation to assist users in maximizing the platform's potential.
+- **Administrative Control:** Detailed control over marketplace settings such as product publishing, vendor registration, and subscription management.
+- **Additional Pro Features:** Access to vendor analytics, advanced SEO management, live chat support, and enhanced payment options like Stripe Connect, PayPal Marketplace, and RazorPAY.
 
 ## Plans / Pricing
 

@@ -2,7 +2,7 @@
 id: si16c9gn9c87iwzzvo7rq3r
 title: Dokan
 desc: ''
-updated: 1713804118922
+updated: 1713817959181
 created: 1713669763292
 ---
 
@@ -33,7 +33,7 @@ Dokan is a robust frontend multi-vendor marketplace plugin for WordPress, levera
 - **Administrative Control:** Detailed control over marketplace settings such as product publishing, vendor registration, and subscription management.
 - **Additional Pro Features:** Access to vendor analytics, advanced SEO management, live chat support, and enhanced payment options like Stripe Connect, PayPal Marketplace, and RazorPAY.
 
-## Plans / Pricing
+## Pricing
 
 > Adapted from [Dokan Pricing](https://dokan.co/wordpress/pricing/)
 

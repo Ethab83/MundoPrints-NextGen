@@ -2,7 +2,7 @@
 id: wjh4t42tqvskw52h06wbtvi
 title: Zoho Campaigns
 desc: ''
-updated: 1713804123847
+updated: 1713817983851
 created: 1713669471670
 ---
 
@@ -23,7 +23,9 @@ Zoho Campaigns is an integral part of Zoho's suite of business tools, providing 
 - **Automated Workflows with E-commerce Integration**: Zoho Campaigns seamlessly connects with your WooCommerce store, syncing customer data to support enhanced e-commerce marketing strategies. Automated workflows enable the deployment of targeted promotional emails, immediate responses to cart abandonment, and welcoming new customers with customized email series.
 - **CRM System Integration**: Leverage the ability to identify and advance top buyers directly into your CRM system, facilitating improved customer relationship management and targeted marketing initiatives.
 
-## Plans / Pricing
+> **Note**: Some features such as CRM require the purhase of [Zoho CRM](https://www.zoho.com/crm/zohocrm-pricing.html) and [Zoho Flow](https://flow.zoho.com/)
+
+## Pricing
 
 > Adapted from [Zoho Campaigns Pricing](https://www.zoho.com/campaigns/pricing.html)
 

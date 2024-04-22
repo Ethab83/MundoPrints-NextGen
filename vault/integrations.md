@@ -2,7 +2,7 @@
 id: vx480s0jpjrkvm14rhemql6
 title: 🔌 Integrations
 desc: ''
-updated: 1713804192227
+updated: 1713817912461
 created: 1713665282473
 ---
 
@@ -43,6 +43,7 @@ created: 1713665282473
 ## User Experience and Customization
 
 - **Custom Fonts**: Custom and Google fonts for website typography.
+- **[[integrations.fpd]]**: Customize/personalize visiting card templates
 - **Nav Menu Roles**: Menu item visibility based on user roles.
 - **User Switching**: Allows switching between user accounts easily.
 

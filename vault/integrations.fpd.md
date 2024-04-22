@@ -1,8 +1,8 @@
 ---
 id: sbgjw5csc45mbimwn14obrl
-title: Fpd
+title: Fancy Product Designer
 desc: ''
-updated: 1713817795151
+updated: 1713818370737
 created: 1713817301994
 ---
 

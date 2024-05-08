@@ -49,4 +49,10 @@ implementing the vendor dashboard, we are using WC Vendors.
 
 ## User Interface
 
-We based the User interface on MundoPrints.in which is still under development. Since MundoPrints.in has other products, we needed to remove the unneeded UI elements, and re-create the menu bar. This created unintended sideeffects, so we are currently working on making it smoother.
+Drawing inspiration from the layout of MundoPrints.in, which is still in development, we meticulously refined the user interface to cater specifically to our product offerings. Given the diverse range of products such as logo tees, brochures, and more, we carefully pruned unnecessary UI elements and crafted a new menu bar.
+
+Our revamped menu bar now boasts essential options such as 'Home', 'About Us', 'Contact', 'Privacy Policy', 'Vendor Login', and 'Cart', ensuring seamless navigation for our users. To accentuate the shopping experience, we strategically placed the cart logo adjacent to the menu bar, adding a visual cue for easy access.
+
+In the product gallery, we sought to strike the perfect balance between aesthetics and functionality. Each product now features a concise description and clear price. Pixel-perfect adjustments ensure that the images are crisp and legible, elevating the overall visual appeal.To empower users with control over their browsing experience, we introduced 'Default Sorting' options and a button leading to a comprehensive product view. 
+
+Harnessing the power of the 'Edit with Elementor' feature from WordPress, we seamlessly executed these enhancements, ensuring a user-centric design that is both elegant and intuitive.

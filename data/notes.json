@@ -1,0 +1,2115 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1715196181023,
+      "created": 1715196181023,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "7l4pd9zwq7dtl7m6e6tyzgh": {
+      "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+      "title": "💵  Pricing",
+      "desc": "",
+      "updated": 1713818885748,
+      "created": 1713665331173,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "pricing",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "bb10ab1fe353e144f2db66fc8802a825",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.dokan",
+          "alias": "integrations.dokan",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 197
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.dokan"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.fpd",
+          "alias": "integrations.fpd",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 294
+            },
+            "end": {
+              "line": 5,
+              "column": 23,
+              "offset": 314
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.fpd"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.razorpay",
+          "alias": "integrations.razorpay",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 391
+            },
+            "end": {
+              "line": 6,
+              "column": 28,
+              "offset": 416
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.razorpay"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.zoho",
+          "alias": "integrations.zoho",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 585
+            },
+            "end": {
+              "line": 8,
+              "column": 24,
+              "offset": 606
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.zoho"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.dokan",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 965
+            },
+            "end": {
+              "line": 22,
+              "column": 32,
+              "offset": 996
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.dokan",
+            "anchorHeader": "pricing"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.fpd",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1026
+            },
+            "end": {
+              "line": 26,
+              "column": 22,
+              "offset": 1047
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.fpd"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.razorpay",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 1,
+              "offset": 1063
+            },
+            "end": {
+              "line": 30,
+              "column": 35,
+              "offset": 1097
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.razorpay",
+            "anchorHeader": "pricing"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.zoho",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 1,
+              "offset": 1119
+            },
+            "end": {
+              "line": 34,
+              "column": 31,
+              "offset": 1149
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.zoho",
+            "anchorHeader": "pricing"
+          }
+        }
+      ],
+      "anchors": {
+        "wordpress": {
+          "type": "header",
+          "text": "WordPress",
+          "value": "wordpress",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "integrations": {
+          "type": "header",
+          "text": "Integrations",
+          "value": "integrations",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "dokan": {
+          "type": "header",
+          "text": "Dokan",
+          "value": "dokan",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "fancy-product-designer": {
+          "type": "header",
+          "text": "Fancy Product Designer",
+          "value": "fancy-product-designer",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "razorpay": {
+          "type": "header",
+          "text": "RazorPay",
+          "value": "razorpay",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "zoho-campaigns": {
+          "type": "header",
+          "text": "Zoho Campaigns",
+          "value": "zoho-campaigns",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "lua8eh5tvun8rhca3e5qy28": {
+      "id": "lua8eh5tvun8rhca3e5qy28",
+      "title": "🔧  Maintinence",
+      "desc": "",
+      "updated": 1713818914459,
+      "created": 1713665422223,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "maintinence",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "da90954a648aa03d6d79914a7b32edf8",
+      "links": [],
+      "anchors": {
+        "update": {
+          "type": "header",
+          "text": "Update",
+          "value": "update",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "site-health": {
+          "type": "header",
+          "text": "Site Health",
+          "value": "site-health",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "vx480s0jpjrkvm14rhemql6": {
+      "id": "vx480s0jpjrkvm14rhemql6",
+      "title": "🔌  Integrations",
+      "desc": "",
+      "updated": 1713818903097,
+      "created": 1713665282473,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "integrations",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a43ce47773225f5d208d503bc1d971c7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.razorpay",
+          "alias": "integrations.razorpay",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 82
+            },
+            "end": {
+              "line": 6,
+              "column": 30,
+              "offset": 107
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.razorpay"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.woocommerce",
+          "alias": "integrations.woocommerce",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 149
+            },
+            "end": {
+              "line": 7,
+              "column": 33,
+              "offset": 177
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.woocommerce"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.dokan",
+          "alias": "integrations.dokan",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 220
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 242
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.dokan"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.zoho",
+          "alias": "integrations.zoho",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 5,
+              "offset": 1280
+            },
+            "end": {
+              "line": 27,
+              "column": 26,
+              "offset": 1301
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.zoho"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.fpd",
+          "alias": "integrations.fpd",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 5,
+              "offset": 1868
+            },
+            "end": {
+              "line": 39,
+              "column": 25,
+              "offset": 1888
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.fpd"
+          }
+        }
+      ],
+      "anchors": {
+        "e-commerce-and-payment": {
+          "type": "header",
+          "text": "E-commerce and Payment",
+          "value": "e-commerce-and-payment",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "website-and-content-management": {
+          "type": "header",
+          "text": "Website and Content Management",
+          "value": "website-and-content-management",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "marketing-and-customer-engagement": {
+          "type": "header",
+          "text": "Marketing and Customer Engagement",
+          "value": "marketing-and-customer-engagement",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "performance-and-security": {
+          "type": "header",
+          "text": "Performance and Security",
+          "value": "performance-and-security",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "user-experience-and-customization": {
+          "type": "header",
+          "text": "User Experience and Customization",
+          "value": "user-experience-and-customization",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "analytics-and-seo": {
+          "type": "header",
+          "text": "Analytics and SEO",
+          "value": "analytics-and-seo",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "si16c9gn9c87iwzzvo7rq3r",
+        "sbgjw5csc45mbimwn14obrl",
+        "1vyfnfy91ib38rh099akkq3",
+        "da9jsoifdwjbpijtrwqfcr9",
+        "wjh4t42tqvskw52h06wbtvi"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "wjh4t42tqvskw52h06wbtvi": {
+      "id": "wjh4t42tqvskw52h06wbtvi",
+      "title": "Zoho Campaigns",
+      "desc": "",
+      "updated": 1713817983851,
+      "created": 1713669471670,
+      "custom": {},
+      "fname": "integrations.zoho",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fd973e89e3f5e486bcf7539c5df0b730",
+      "links": [
+        {
+          "from": {
+            "fname": "integrations",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 5,
+              "offset": 1280
+            },
+            "end": {
+              "line": 27,
+              "column": 26,
+              "offset": 1301
+            },
+            "indent": []
+          },
+          "value": "integrations.zoho",
+          "alias": "integrations.zoho"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 585
+            },
+            "end": {
+              "line": 8,
+              "column": 24,
+              "offset": 606
+            },
+            "indent": []
+          },
+          "value": "integrations.zoho",
+          "alias": "integrations.zoho"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 1,
+              "offset": 1119
+            },
+            "end": {
+              "line": 34,
+              "column": 31,
+              "offset": 1149
+            },
+            "indent": []
+          },
+          "value": "integrations.zoho"
+        },
+        {
+          "from": {
+            "fname": "privacy",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 70
+            },
+            "end": {
+              "line": 8,
+              "column": 38,
+              "offset": 107
+            },
+            "indent": []
+          },
+          "value": "integrations.zoho"
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "Links",
+          "value": "links",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "key-features": {
+          "type": "header",
+          "text": "Key Features",
+          "value": "key-features",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "pricing": {
+          "type": "header",
+          "text": "Pricing",
+          "value": "pricing",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "free": {
+          "type": "header",
+          "text": "Free",
+          "value": "free",
+          "line": 33,
+          "column": 0,
+          "depth": 3
+        },
+        "standard-recommended": {
+          "type": "header",
+          "text": "Standard (Recommended)",
+          "value": "standard-recommended",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "professional": {
+          "type": "header",
+          "text": "Professional",
+          "value": "professional",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        },
+        "privacy-policy": {
+          "type": "header",
+          "text": "Privacy policy",
+          "value": "privacy-policy",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "key-points": {
+          "type": "header",
+          "text": "Key Points",
+          "value": "key-points",
+          "line": 65,
+          "column": 0,
+          "depth": 3
+        },
+        "collected-information": {
+          "type": "header",
+          "text": "Collected information",
+          "value": "collected-information",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "vx480s0jpjrkvm14rhemql6",
+      "data": {}
+    },
+    "da9jsoifdwjbpijtrwqfcr9": {
+      "id": "da9jsoifdwjbpijtrwqfcr9",
+      "title": "WooCommerce",
+      "desc": "",
+      "updated": 1713804143953,
+      "created": 1713803968707,
+      "custom": {},
+      "fname": "integrations.woocommerce",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fa853498226e9e80c7afc23952c6a9c3",
+      "links": [
+        {
+          "from": {
+            "fname": "integrations",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 149
+            },
+            "end": {
+              "line": 7,
+              "column": 33,
+              "offset": 177
+            },
+            "indent": []
+          },
+          "value": "integrations.woocommerce",
+          "alias": "integrations.woocommerce"
+        }
+      ],
+      "anchors": {
+        "key-features--benefits": {
+          "type": "header",
+          "text": "Key Features & Benefits",
+          "value": "key-features--benefits",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "vx480s0jpjrkvm14rhemql6",
+      "data": {}
+    },
+    "1vyfnfy91ib38rh099akkq3": {
+      "id": "1vyfnfy91ib38rh099akkq3",
+      "title": "RazorPay",
+      "desc": "",
+      "updated": 1713818151177,
+      "created": 1713804089320,
+      "custom": {},
+      "fname": "integrations.razorpay",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2ca92504628f34288499ceb0cd4c6f6d",
+      "links": [
+        {
+          "from": {
+            "fname": "integrations",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 82
+            },
+            "end": {
+              "line": 6,
+              "column": 30,
+              "offset": 107
+            },
+            "indent": []
+          },
+          "value": "integrations.razorpay",
+          "alias": "integrations.razorpay"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 391
+            },
+            "end": {
+              "line": 6,
+              "column": 28,
+              "offset": 416
+            },
+            "indent": []
+          },
+          "value": "integrations.razorpay",
+          "alias": "integrations.razorpay"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 1,
+              "offset": 1063
+            },
+            "end": {
+              "line": 30,
+              "column": 35,
+              "offset": 1097
+            },
+            "indent": []
+          },
+          "value": "integrations.razorpay"
+        }
+      ],
+      "anchors": {
+        "key-features": {
+          "type": "header",
+          "text": "Key Features",
+          "value": "key-features",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "pricing": {
+          "type": "header",
+          "text": "Pricing",
+          "value": "pricing",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "vx480s0jpjrkvm14rhemql6",
+      "data": {}
+    },
+    "sbgjw5csc45mbimwn14obrl": {
+      "id": "sbgjw5csc45mbimwn14obrl",
+      "title": "Fancy Product Designer",
+      "desc": "",
+      "updated": 1713818370737,
+      "created": 1713817301994,
+      "custom": {},
+      "fname": "integrations.fpd",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1596c38489448e96f38589db6742194c",
+      "links": [
+        {
+          "from": {
+            "fname": "integrations",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 5,
+              "offset": 1868
+            },
+            "end": {
+              "line": 39,
+              "column": 25,
+              "offset": 1888
+            },
+            "indent": []
+          },
+          "value": "integrations.fpd",
+          "alias": "integrations.fpd"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 294
+            },
+            "end": {
+              "line": 5,
+              "column": 23,
+              "offset": 314
+            },
+            "indent": []
+          },
+          "value": "integrations.fpd",
+          "alias": "integrations.fpd"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1026
+            },
+            "end": {
+              "line": 26,
+              "column": 22,
+              "offset": 1047
+            },
+            "indent": []
+          },
+          "value": "integrations.fpd"
+        }
+      ],
+      "anchors": {
+        "pricing": {
+          "type": "header",
+          "text": "Pricing",
+          "value": "pricing",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "vx480s0jpjrkvm14rhemql6",
+      "data": {}
+    },
+    "si16c9gn9c87iwzzvo7rq3r": {
+      "id": "si16c9gn9c87iwzzvo7rq3r",
+      "title": "Dokan",
+      "desc": "",
+      "updated": 1713817959181,
+      "created": 1713669763292,
+      "custom": {},
+      "fname": "integrations.dokan",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3366cdfc90d020e6e5e86b587c8fb084",
+      "links": [
+        {
+          "from": {
+            "fname": "integrations",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 220
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 242
+            },
+            "indent": []
+          },
+          "value": "integrations.dokan",
+          "alias": "integrations.dokan"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 197
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "value": "integrations.dokan",
+          "alias": "integrations.dokan"
+        },
+        {
+          "from": {
+            "fname": "pricing",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 965
+            },
+            "end": {
+              "line": 22,
+              "column": 32,
+              "offset": 996
+            },
+            "indent": []
+          },
+          "value": "integrations.dokan"
+        },
+        {
+          "from": {
+            "fname": "privacy",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 11
+            },
+            "end": {
+              "line": 4,
+              "column": 39,
+              "offset": 49
+            },
+            "indent": []
+          },
+          "value": "integrations.dokan"
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "Links",
+          "value": "links",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "key-features": {
+          "type": "header",
+          "text": "Key Features",
+          "value": "key-features",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "pricing": {
+          "type": "header",
+          "text": "Pricing",
+          "value": "pricing",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "privacy-policy": {
+          "type": "header",
+          "text": "Privacy Policy",
+          "value": "privacy-policy",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "key-points": {
+          "type": "header",
+          "text": "Key points",
+          "value": "key-points",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "collected-information": {
+          "type": "header",
+          "text": "Collected information",
+          "value": "collected-information",
+          "line": 64,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "vx480s0jpjrkvm14rhemql6",
+      "data": {}
+    },
+    "ylznqpn1jrbvdkq1g5ben10": {
+      "id": "ylznqpn1jrbvdkq1g5ben10",
+      "title": "📃  Overview",
+      "desc": "",
+      "updated": 1713818891086,
+      "created": 1713714630159,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "overview",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ea7c6ddd0b13ae935d04691b5abc6df9",
+      "links": [],
+      "anchors": {
+        "quick-links": {
+          "type": "header",
+          "text": "Quick Links",
+          "value": "quick-links",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "definitions": {
+          "type": "header",
+          "text": "Definitions",
+          "value": "definitions",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "scope": {
+          "type": "header",
+          "text": "Scope",
+          "value": "scope",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "limitations": {
+          "type": "header",
+          "text": "Limitations",
+          "value": "limitations",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "requirements": {
+          "type": "header",
+          "text": "Requirements",
+          "value": "requirements",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        },
+        "specifications": {
+          "type": "header",
+          "text": "Specifications",
+          "value": "specifications",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xcq01jjbhv5pgrybxlh2h9e",
+        "l1udgesawkypusqo4dn65fd",
+        "q7dorodf01lzbobzeshnouw",
+        "fff95qwwpngi2n6tkrgeg14"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "fff95qwwpngi2n6tkrgeg14": {
+      "id": "fff95qwwpngi2n6tkrgeg14",
+      "title": "Roles",
+      "desc": "",
+      "updated": 1713802008735,
+      "created": 1713801717983,
+      "custom": {},
+      "fname": "overview.roles",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "616b9912dec54d1702991c5c4979ad5d",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ylznqpn1jrbvdkq1g5ben10",
+      "data": {}
+    },
+    "q7dorodf01lzbobzeshnouw": {
+      "id": "q7dorodf01lzbobzeshnouw",
+      "title": "Timeframe & Milestones",
+      "desc": "",
+      "updated": 1713743474508,
+      "created": 1713732516786,
+      "custom": {},
+      "fname": "overview.milestones",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6a7c151c3ea8e3165f9b68e95d3816bb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ylznqpn1jrbvdkq1g5ben10",
+      "data": {}
+    },
+    "l1udgesawkypusqo4dn65fd": {
+      "id": "l1udgesawkypusqo4dn65fd",
+      "title": "Meeting Notes",
+      "desc": "",
+      "updated": 1713743487957,
+      "created": 1713736253298,
+      "custom": {},
+      "fname": "overview.meeting",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "41cc5f6046dc6179f806b8569e7acffe",
+      "links": [],
+      "anchors": {
+        "april-15": {
+          "type": "header",
+          "text": "April 15",
+          "value": "april-15",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "march-25": {
+          "type": "header",
+          "text": "March 25",
+          "value": "march-25",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "march-6": {
+          "type": "header",
+          "text": "March 6",
+          "value": "march-6",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "march-3": {
+          "type": "header",
+          "text": "March 3",
+          "value": "march-3",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ylznqpn1jrbvdkq1g5ben10",
+      "data": {}
+    },
+    "xcq01jjbhv5pgrybxlh2h9e": {
+      "id": "xcq01jjbhv5pgrybxlh2h9e",
+      "title": "Design",
+      "desc": "",
+      "updated": 1713743462994,
+      "created": 1713732581315,
+      "custom": {},
+      "fname": "overview.design",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "136f8b58ad9ebc30b0804342c2a4ae65",
+      "links": [],
+      "anchors": {
+        "use-cases": {
+          "type": "header",
+          "text": "Use Cases",
+          "value": "use-cases",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "actors": {
+          "type": "header",
+          "text": "Actors",
+          "value": "actors",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "customer-use-case": {
+          "type": "header",
+          "text": "Customer Use Case",
+          "value": "customer-use-case",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "architecture": {
+          "type": "header",
+          "text": "Architecture",
+          "value": "architecture",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "technologies-and-implementation-details": {
+          "type": "header",
+          "text": "Technologies and Implementation Details",
+          "value": "technologies-and-implementation-details",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "user-interface": {
+          "type": "header",
+          "text": "User Interface",
+          "value": "user-interface",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ylznqpn1jrbvdkq1g5ben10",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ylznqpn1jrbvdkq1g5ben10",
+      "title": "📃  Overview",
+      "desc": "",
+      "updated": 1713818891086,
+      "created": 1713714630159,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "overview",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ea7c6ddd0b13ae935d04691b5abc6df9",
+      "links": [],
+      "anchors": {
+        "quick-links": {
+          "type": "header",
+          "text": "Quick Links",
+          "value": "quick-links",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "definitions": {
+          "type": "header",
+          "text": "Definitions",
+          "value": "definitions",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "scope": {
+          "type": "header",
+          "text": "Scope",
+          "value": "scope",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "limitations": {
+          "type": "header",
+          "text": "Limitations",
+          "value": "limitations",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "requirements": {
+          "type": "header",
+          "text": "Requirements",
+          "value": "requirements",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        },
+        "specifications": {
+          "type": "header",
+          "text": "Specifications",
+          "value": "specifications",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "xcq01jjbhv5pgrybxlh2h9e",
+        "l1udgesawkypusqo4dn65fd",
+        "q7dorodf01lzbobzeshnouw",
+        "fff95qwwpngi2n6tkrgeg14"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n## Quick Links\n\n- [MundoCards Homepage](https://mundocards.wpcomstaging.com/)\n- [WordPress Dashboard](https://mundocards.wpcomstaging.com/wp-admin/)\n- [Project Task Board](https://github.com/users/Ethab83/projects/1)\n\n## Definitions\n\n- **API**: Application Programming Interface\n- **E-commerce**: Electronic commerce\n- **iOS**: iPhone OS (Operating System)\n- **MVC**: Model, View, Controller\n- **MVP**: Minimum Viable Product\n- **SaaS**: Software as a Service\n- **UI**: User Interface\n- **WC**: WooComerce (e-commerce platform on top of WP)\n- **WP**: WordPress\n\n## Scope\n\n- **MundoCards Web-App**: A WP/WC SaaS web-app that facilitates on-demand printing services for consumers and local printers in emerging markets. The platform aims to aggregate consumer demand and automate the printers’ workflows through a SaaS web portal. The website should have a User-friendly UI and a secured payment API.\n- **Consumer-end**: The business card designer software will be used to customize business cards that will be sold using the MundoPrints platform. The software will make it simple for customers to use MundoPrints from any device (mobile/desktop) easily.\n- **Producer-end**: The printers/vendors will use a dashboard to manage their orders and product stock.\n\n## Overview\n\nThis project (MundoCards), is for a Software Engineering class project at UMass Boston. Through the MundoCards platform, the user can customize their Business Cards according to their own requirements. Our task is to build an efficient website to incorporate as many customization features as we can for the business cards and secured payment process.\n\n## Limitations\n\nNavigating the regulatory landscape across different countries can be challenging, with varying standards, taxes, and import/export regulations potentially complicating operations and expansion plans. One problem like this that we have run into was initially we were using a US-based WP website. However, we ended up switching this to an India-based WP website, because it was both cheaper, and more fitting. We will soon be implementing the payment system, and it will be important to make sure that the prices are shown in rupees instead of dollars.\n\nManaging an efficient supply chain across diverse and sometimes remote areas can be complex, with risks of delays, increased costs, and logistical challenges affecting the timely delivery of services. This may not be much of a concern for us, since it will take too long to track the entire order fulfillment before the final deadline.\n\nManaging the services, and website across different regions due to language barriers. Since the site is targeted towards the Indian market, it will be a challenge to make sure everything looks right.\n\nEnsuring consistency with the product quality and packaging across all the different regions we are providing services to.\n\nWP itself presents many limitations which are pay-walled behind subscriptions. We have run into several problems with limitations of some subscription levels, however with out current subscription, there are no further issues.\n\n## Requirements\n\nThe most important requirement of this project is to create a user-friendly web-app that enables customers to customize their business cards according to their needs. To implement the website we are using WP.\n\nThe web-app must have a product navigation and customization UI for customers, and an orders dashboard for printing vendors.\n\nThe payment process must be smooth and secure for safety and reliability purposes. For this we are using WP plugins WC and RazorPay.\n\nThe website should be functional on all sorts of devices including a desktop or a phone(iOS/Android) Thankfully WP makes this fairly easy.\nFrom the back-end perspective, the website should be able to connect the user with the local printers well, with all the order information and delivery notifications being sent to both parties at the same time. For this we are using the WP plugin called Zoho Campaigns.\nLastly, the website should also be able to track the details of the customers and store them in the database for future reference. For this we are using a WP plugin called JetPack.\n\n## Specifications\n\nThe software will be implemented on a website [MundoCards.com](https://mundocards.wpcomstaging.com/). It will be accessible from the homepage of it. The very first step in the process was to find out how we were going to build the website. We decided to use WP (with the Creator plan) because it could easily be used to implement the front-end design and add functionality through existing plugins. We copied the existing (unfinished) website. After obtaining the domain, we researched the specific plugins to implement (for payment processing, card customization, vendor dashboards, customer notification, etc.). Now, we are currently integrating the plugins to work seamlessly with the web-app.\n"
+    },
+    {
+      "id": "vx480s0jpjrkvm14rhemql6",
+      "title": "🔌  Integrations",
+      "desc": "",
+      "updated": 1713818903097,
+      "created": 1713665282473,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "integrations",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a43ce47773225f5d208d503bc1d971c7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.razorpay",
+          "alias": "integrations.razorpay",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 82
+            },
+            "end": {
+              "line": 6,
+              "column": 30,
+              "offset": 107
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.razorpay"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.woocommerce",
+          "alias": "integrations.woocommerce",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 149
+            },
+            "end": {
+              "line": 7,
+              "column": 33,
+              "offset": 177
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.woocommerce"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.dokan",
+          "alias": "integrations.dokan",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 220
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 242
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.dokan"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.zoho",
+          "alias": "integrations.zoho",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 5,
+              "offset": 1280
+            },
+            "end": {
+              "line": 27,
+              "column": 26,
+              "offset": 1301
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.zoho"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "integrations",
+            "id": "vx480s0jpjrkvm14rhemql6",
+            "vaultName": "vault"
+          },
+          "value": "integrations.fpd",
+          "alias": "integrations.fpd",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 5,
+              "offset": 1868
+            },
+            "end": {
+              "line": 39,
+              "column": 25,
+              "offset": 1888
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.fpd"
+          }
+        }
+      ],
+      "anchors": {
+        "e-commerce-and-payment": {
+          "type": "header",
+          "text": "E-commerce and Payment",
+          "value": "e-commerce-and-payment",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "website-and-content-management": {
+          "type": "header",
+          "text": "Website and Content Management",
+          "value": "website-and-content-management",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "marketing-and-customer-engagement": {
+          "type": "header",
+          "text": "Marketing and Customer Engagement",
+          "value": "marketing-and-customer-engagement",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "performance-and-security": {
+          "type": "header",
+          "text": "Performance and Security",
+          "value": "performance-and-security",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "user-experience-and-customization": {
+          "type": "header",
+          "text": "User Experience and Customization",
+          "value": "user-experience-and-customization",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "analytics-and-seo": {
+          "type": "header",
+          "text": "Analytics and SEO",
+          "value": "analytics-and-seo",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "si16c9gn9c87iwzzvo7rq3r",
+        "sbgjw5csc45mbimwn14obrl",
+        "1vyfnfy91ib38rh099akkq3",
+        "da9jsoifdwjbpijtrwqfcr9",
+        "wjh4t42tqvskw52h06wbtvi"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n![Sequence Diagram](assets/sequence_diagram.jpg)\n\n## E-commerce and Payment\n\n- **[[integrations.razorpay]]**: Payment gateway for transactions.\n- **[[integrations.woocommerce]]**: Comprehensive e-commerce platform.\n- **[[integrations.dokan]]**: Manages Vendors & provides vendor dashboard.\n<!-- - **WC Vendors Marketplace**: Marketplace creation with vendor management. -->\n<!-- - **WC Captcha**: Adds captcha to WooCommerce forms to prevent spam and secure the site from bots. -->\n\n## Website and Content Management\n\n- **All-in-One WP Migration**: Site migration, backup, and content import/export.\n- **Classic Widgets**: Classic widget management for appearance.\n- **Elementor**: Drag-and-drop page builder for website design.\n- **ElementsKit Lite**: Advanced Elementor addons for design and layout.\n- **Jeg Elementor Kit**: Additional widgets for Elementor.\n- **Essential Addons for Elementor**: Extra elements and widgets for Elementor.\n\n## Marketing and Customer Engagement\n\n<!-- - **Contact Form 7**: Creation of contact forms. -->\n- **Mailchimp for WooCommerce**: Email marketing and customer segmentation.\n<!-- - SMSAlert - WooCommerce: SMS notifications for orders and customer engagement. -->\n- **WPForms Lite**: Drag-and-drop form builder for contact and surveys.\n- **[[integrations.zoho]]**: Convert visitors into leads, sync WooCommerce details, and set up targeted campaigns.\n\n## Performance and Security\n\n- **Jetpack**: Security, performance, and marketing tools.\n- **WP-Optimize**: Cleans database, compresses images, and caches the site for improved performance.\n<!-- - WP Super Cache: Generates static HTML files for faster load times. -->\n<!-- - WP Armour – Honeypot Anti-Spam: Protects forms from spam using the honeypot technique. -->\n\n## User Experience and Customization\n\n- **Custom Fonts**: Custom and Google fonts for website typography.\n- **[[integrations.fpd]]**: Customize/personalize visiting card templates\n- **Nav Menu Roles**: Menu item visibility based on user roles.\n- **User Switching**: Allows switching between user accounts easily.\n\n## Analytics and SEO\n\n- **WP Statistics**: Provides detailed statistics about website visitors and page views.\n<!-- - **Site Kit by Google**: Integrates insights from Google Analytics, Search Console, AdSense, and PageSpeed Insights. -->\n- **Yoast SEO**: Optimizes website content for search engines with keywords, meta descriptions, and readability analysis.\n"
+    },
+    {
+      "id": "lua8eh5tvun8rhca3e5qy28",
+      "title": "🔧  Maintinence",
+      "desc": "",
+      "updated": 1713818914459,
+      "created": 1713665422223,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "maintinence",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "da90954a648aa03d6d79914a7b32edf8",
+      "links": [],
+      "anchors": {
+        "update": {
+          "type": "header",
+          "text": "Update",
+          "value": "update",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "site-health": {
+          "type": "header",
+          "text": "Site Health",
+          "value": "site-health",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "\n# Update\n\n> All updates can be managed [here](https://mundocards.wpcomstaging.com/wp-admin/update-core.php).\n\nOccasionally the WordPress version will need to be updated manually.\n\nAll of the integrations are set to automatically schedule updates late in the evenings as to not disturb site usage.\n\n# Site Health\n\n> WordPress provides a site health checker which can be found [here](https://mundocards.wpcomstaging.com/wp-admin/site-health.php).\n\n- **Performance Monitoring**: The tool monitors your website's performance metrics, including page load times, server response times, and overall site speed. It provides recommendations for improving performance based on these metrics.\n- **Security Analysis**: It scans your website for potential security vulnerabilities, such as outdated plugins or themes, weak passwords, and suspicious file changes. It offers recommendations to strengthen your website's security and protect it from cyber threats.\n- **Plugin and Theme Checks**: The tool reviews the plugins and themes installed on your website, checking for compatibility issues, outdated versions, and known security vulnerabilities. It suggests updates or replacements for problematic plugins and themes.\n- **Site Health Score**: It assigns a health score to your website based on various factors, including performance, security, and overall site maintenance. This score helps you gauge the overall health of your website and prioritize necessary improvements.\n- **Actionable Recommendations**: The tool provides actionable recommendations to address any issues identified during the health check. These recommendations are tailored to your website's specific needs and can help you optimize its performance and security.\n- **Scheduled Checks**: You can schedule regular health checks for your website to ensure ongoing monitoring and maintenance. This helps you stay proactive in addressing potential issues and keeping your website running smoothly.\n"
+    },
+    {
+      "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+      "title": "💵  Pricing",
+      "desc": "",
+      "updated": 1713818885748,
+      "created": 1713665331173,
+      "custom": {
+        "nav_order": 3
+      },
+      "fname": "pricing",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "bb10ab1fe353e144f2db66fc8802a825",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.dokan",
+          "alias": "integrations.dokan",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 197
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 219
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.dokan"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.fpd",
+          "alias": "integrations.fpd",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 294
+            },
+            "end": {
+              "line": 5,
+              "column": 23,
+              "offset": 314
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.fpd"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.razorpay",
+          "alias": "integrations.razorpay",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 391
+            },
+            "end": {
+              "line": 6,
+              "column": 28,
+              "offset": 416
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.razorpay"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.zoho",
+          "alias": "integrations.zoho",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 585
+            },
+            "end": {
+              "line": 8,
+              "column": 24,
+              "offset": 606
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "integrations.zoho"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.dokan",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 1,
+              "offset": 965
+            },
+            "end": {
+              "line": 22,
+              "column": 32,
+              "offset": 996
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.dokan",
+            "anchorHeader": "pricing"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.fpd",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1026
+            },
+            "end": {
+              "line": 26,
+              "column": 22,
+              "offset": 1047
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.fpd"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.razorpay",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 1,
+              "offset": 1063
+            },
+            "end": {
+              "line": 30,
+              "column": 35,
+              "offset": 1097
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.razorpay",
+            "anchorHeader": "pricing"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pricing",
+            "id": "7l4pd9zwq7dtl7m6e6tyzgh",
+            "vaultName": "vault"
+          },
+          "value": "integrations.zoho",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 1,
+              "offset": 1119
+            },
+            "end": {
+              "line": 34,
+              "column": 31,
+              "offset": 1149
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "integrations.zoho",
+            "anchorHeader": "pricing"
+          }
+        }
+      ],
+      "anchors": {
+        "wordpress": {
+          "type": "header",
+          "text": "WordPress",
+          "value": "wordpress",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "integrations": {
+          "type": "header",
+          "text": "Integrations",
+          "value": "integrations",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "dokan": {
+          "type": "header",
+          "text": "Dokan",
+          "value": "dokan",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "fancy-product-designer": {
+          "type": "header",
+          "text": "Fancy Product Designer",
+          "value": "fancy-product-designer",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "razorpay": {
+          "type": "header",
+          "text": "RazorPay",
+          "value": "razorpay",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "zoho-campaigns": {
+          "type": "header",
+          "text": "Zoho Campaigns",
+          "value": "zoho-campaigns",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "\n| License                   | Type                   | Price                                   |\n|---------------------------|------------------------|-----------------------------------------|\n| [[integrations.dokan]]    | Subscription           | ₹51,788.00 / $619.52 (18% tax included) |\n| [[integrations.fpd]]      | Licence & Subscription | $59.00 per license \\| $19 per month     |\n| [[integrations.razorpay]] | Commission             | 2-3%                                    |\n| WordPress                 | Subscription           | ₹640.00 / $7.70 per month               |\n| [[integrations.zoho]]     | Subscription           | ₹180 / $2.16 per month                  |\n\n## WordPress\n\n> Adapted from [WordPress Pricing](https://wordpress.com/pricing/)\n\n**Creator Plan** ₹640.00 / $7.70 per month\n\nWe are currently using the Creator Plan for WP, without this, we would not have access to most of the integrations we are using.\n\n## Integrations\n\n### Dokan\n\n![[integrations.dokan#pricing]]\n\n### Fancy Product Designer\n\n![[integrations.fpd]]\n\n### RazorPay\n\n![[integrations.razorpay#pricing]]\n\n### Zoho Campaigns\n\n![[integrations.zoho#pricing]]\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "ylznqpn1jrbvdkq1g5ben10",
+    "title": "📃  Overview",
+    "desc": "",
+    "updated": 1713818891086,
+    "created": 1713714630159,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "overview",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "ea7c6ddd0b13ae935d04691b5abc6df9",
+    "links": [],
+    "anchors": {
+      "quick-links": {
+        "type": "header",
+        "text": "Quick Links",
+        "value": "quick-links",
+        "line": 8,
+        "column": 0,
+        "depth": 2
+      },
+      "definitions": {
+        "type": "header",
+        "text": "Definitions",
+        "value": "definitions",
+        "line": 14,
+        "column": 0,
+        "depth": 2
+      },
+      "scope": {
+        "type": "header",
+        "text": "Scope",
+        "value": "scope",
+        "line": 26,
+        "column": 0,
+        "depth": 2
+      },
+      "overview": {
+        "type": "header",
+        "text": "Overview",
+        "value": "overview",
+        "line": 32,
+        "column": 0,
+        "depth": 2
+      },
+      "limitations": {
+        "type": "header",
+        "text": "Limitations",
+        "value": "limitations",
+        "line": 36,
+        "column": 0,
+        "depth": 2
+      },
+      "requirements": {
+        "type": "header",
+        "text": "Requirements",
+        "value": "requirements",
+        "line": 48,
+        "column": 0,
+        "depth": 2
+      },
+      "specifications": {
+        "type": "header",
+        "text": "Specifications",
+        "value": "specifications",
+        "line": 60,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "xcq01jjbhv5pgrybxlh2h9e",
+      "l1udgesawkypusqo4dn65fd",
+      "q7dorodf01lzbobzeshnouw",
+      "fff95qwwpngi2n6tkrgeg14"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n## Quick Links\n\n- [MundoCards Homepage](https://mundocards.wpcomstaging.com/)\n- [WordPress Dashboard](https://mundocards.wpcomstaging.com/wp-admin/)\n- [Project Task Board](https://github.com/users/Ethab83/projects/1)\n\n## Definitions\n\n- **API**: Application Programming Interface\n- **E-commerce**: Electronic commerce\n- **iOS**: iPhone OS (Operating System)\n- **MVC**: Model, View, Controller\n- **MVP**: Minimum Viable Product\n- **SaaS**: Software as a Service\n- **UI**: User Interface\n- **WC**: WooComerce (e-commerce platform on top of WP)\n- **WP**: WordPress\n\n## Scope\n\n- **MundoCards Web-App**: A WP/WC SaaS web-app that facilitates on-demand printing services for consumers and local printers in emerging markets. The platform aims to aggregate consumer demand and automate the printers’ workflows through a SaaS web portal. The website should have a User-friendly UI and a secured payment API.\n- **Consumer-end**: The business card designer software will be used to customize business cards that will be sold using the MundoPrints platform. The software will make it simple for customers to use MundoPrints from any device (mobile/desktop) easily.\n- **Producer-end**: The printers/vendors will use a dashboard to manage their orders and product stock.\n\n## Overview\n\nThis project (MundoCards), is for a Software Engineering class project at UMass Boston. Through the MundoCards platform, the user can customize their Business Cards according to their own requirements. Our task is to build an efficient website to incorporate as many customization features as we can for the business cards and secured payment process.\n\n## Limitations\n\nNavigating the regulatory landscape across different countries can be challenging, with varying standards, taxes, and import/export regulations potentially complicating operations and expansion plans. One problem like this that we have run into was initially we were using a US-based WP website. However, we ended up switching this to an India-based WP website, because it was both cheaper, and more fitting. We will soon be implementing the payment system, and it will be important to make sure that the prices are shown in rupees instead of dollars.\n\nManaging an efficient supply chain across diverse and sometimes remote areas can be complex, with risks of delays, increased costs, and logistical challenges affecting the timely delivery of services. This may not be much of a concern for us, since it will take too long to track the entire order fulfillment before the final deadline.\n\nManaging the services, and website across different regions due to language barriers. Since the site is targeted towards the Indian market, it will be a challenge to make sure everything looks right.\n\nEnsuring consistency with the product quality and packaging across all the different regions we are providing services to.\n\nWP itself presents many limitations which are pay-walled behind subscriptions. We have run into several problems with limitations of some subscription levels, however with out current subscription, there are no further issues.\n\n## Requirements\n\nThe most important requirement of this project is to create a user-friendly web-app that enables customers to customize their business cards according to their needs. To implement the website we are using WP.\n\nThe web-app must have a product navigation and customization UI for customers, and an orders dashboard for printing vendors.\n\nThe payment process must be smooth and secure for safety and reliability purposes. For this we are using WP plugins WC and RazorPay.\n\nThe website should be functional on all sorts of devices including a desktop or a phone(iOS/Android) Thankfully WP makes this fairly easy.\nFrom the back-end perspective, the website should be able to connect the user with the local printers well, with all the order information and delivery notifications being sent to both parties at the same time. For this we are using the WP plugin called Zoho Campaigns.\nLastly, the website should also be able to track the details of the customers and store them in the database for future reference. For this we are using a WP plugin called JetPack.\n\n## Specifications\n\nThe software will be implemented on a website [MundoCards.com](https://mundocards.wpcomstaging.com/). It will be accessible from the homepage of it. The very first step in the process was to find out how we were going to build the website. We decided to use WP (with the Creator plan) because it could easily be used to implement the front-end design and add functionality through existing plugins. We copied the existing (unfinished) website. After obtaining the domain, we researched the specific plugins to implement (for payment processing, card customization, vendor dashboards, customer notification, etc.). Now, we are currently integrating the plugins to work seamlessly with the web-app.\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

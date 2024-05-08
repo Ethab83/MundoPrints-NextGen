@@ -1,0 +1,39 @@
+<h1 id="design"><a aria-hidden="true" class="anchor-heading icon-link" href="#design"></a>Design</h1>
+<p>We are first designing the actual UI and customization features with all the possible detailing to make the implementation of the front end easier. We are also coming up with the flow charts and discussing on the architecture and the required technologies to implement the back-end.</p>
+<h2 id="use-cases"><a aria-hidden="true" class="anchor-heading icon-link" href="#use-cases"></a>Use Cases</h2>
+<p><img src="/MundoPrints-Visiting.Cards/assets/usecase_diagram.png" alt="Use Case Diagram"></p>
+<p>The main clients of the software are small businesses and local printers in emerging markets. We connect small businesses to the local printers that are partnered with our site, allowing for operation sustainability. We’re also lookingto implement a phone application version of the website for Android/iOS, making it easier and more accessible to small businesses. The payment method implementation allows on-demand business card printing.</p>
+<h3 id="actors"><a aria-hidden="true" class="anchor-heading icon-link" href="#actors"></a>Actors</h3>
+<ul>
+<li>
+<p><strong>Customer</strong>: A user who needs printing services and interacts with the website to create customized products, place an order, and pay for the order.</p>
+</li>
+<li>
+<p><strong>Local Printer Vendor</strong>: A service provider who fulfills the printing orders placed by customers.
+Use cases:</p>
+</li>
+</ul>
+<h3 id="customer-use-case"><a aria-hidden="true" class="anchor-heading icon-link" href="#customer-use-case"></a>Customer Use Case</h3>
+<ul>
+<li><strong>Sign Up</strong>: New vendors register on the website to create an account with username and password.</li>
+<li><strong>Log In</strong>: Old vendors access their accounts to manage their activities on the website.</li>
+<li><strong>Verify Password</strong>: Part of the login process, the system validates user credentials.</li>
+<li><strong>Show Login Error</strong>: If the login attempt fails, the system displays an error message to the user.</li>
+<li><strong>Customize Design</strong>: Customers choose a design template or upload their own and personalize it with details like name, company information, etc.</li>
+<li><strong>Place Order</strong>: Once the design is customized, the customer proceeds to place the order for printing.</li>
+<li><strong>Payment</strong>: The customer completes the transaction by paying for the services through a secure payment gateway.</li>
+<li><strong>Manage Order</strong>: Local printer vendors access the system to manage and process the orders received.</li>
+<li><strong>Receive Order</strong>: After an order is processed, the local printer vendor updates the system, marking the order as complete when it’s ready for delivery or pickup.</li>
+</ul>
+<h2 id="architecture"><a aria-hidden="true" class="anchor-heading icon-link" href="#architecture"></a>Architecture</h2>
+<p><img src="/MundoPrints-Visiting.Cards/assets/activity_diagram.png" alt="Activity Diagram"></p>
+<p>We chose MVC architecture because it made the most sense for this application. The website is a type of online shopping platform, so it would be useful to have this architecture. The model in this case is a database to store information about customers and printers, as well as inventory, and available designs. As for deployment, it will be hosted on WP.</p>
+<p>The exact implementation of the architecture is managed by WP. We chose WP because it made the most sense to copy the existing website (for other printed products) <a href="https://www.mundoprints.in/">MundoPrints.in</a>, to <a href="https://mundocards.wpcomstaging.com/">MundoCards.com</a> and change it to meet the requirements</p>
+<h2 id="technologies-and-implementation-details"><a aria-hidden="true" class="anchor-heading icon-link" href="#technologies-and-implementation-details"></a>Technologies and Implementation Details</h2>
+<p>Since we are using WP most of the implementation will be inside WP and WP plugins. We are using the Elementor plugin to develop the front-end. Elementor is a drag and drop editor which makes it fairly easy to create a web UI. For managing products and customers we are using WC. For the design page we are using Zakeke which is a tailor made plugin for printing template customization. For the payment processing, we are using the RazorPay plugin for WP. For notifying customers for order confirmation and delivery, we are using Zoho Campaigns. For managing vendors and
+implementing the vendor dashboard, we are using WC Vendors.</p>
+<h2 id="user-interface"><a aria-hidden="true" class="anchor-heading icon-link" href="#user-interface"></a>User Interface</h2>
+<p>Drawing inspiration from the layout of MundoPrints.in, which is still in development, we meticulously refined the user interface to cater specifically to our product offerings. Given the diverse range of products such as logo tees, brochures, and more, we carefully pruned unnecessary UI elements and crafted a new menu bar.</p>
+<p>Our revamped menu bar now boasts essential options such as 'Home', 'About Us', 'Contact', 'Privacy Policy', 'Vendor Login', and 'Cart', ensuring seamless navigation for our users. To accentuate the shopping experience, we strategically placed the cart logo adjacent to the menu bar, adding a visual cue for easy access.</p>
+<p>In the product gallery, we sought to strike the perfect balance between aesthetics and functionality. Each product now features a concise description and clear price. Pixel-perfect adjustments ensure that the images are crisp and legible, elevating the overall visual appeal.To empower users with control over their browsing experience, we introduced 'Default Sorting' options and a button leading to a comprehensive product view. </p>
+<p>Harnessing the power of the 'Edit with Elementor' feature from WordPress, we seamlessly executed these enhancements, ensuring a user-centric design that is both elegant and intuitive.</p>

@@ -1,0 +1,139 @@
+{
+  "roots": [
+    {
+      "key": "ylznqpn1jrbvdkq1g5ben10",
+      "title": "📃  Overview",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "xcq01jjbhv5pgrybxlh2h9e",
+          "title": "Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "l1udgesawkypusqo4dn65fd",
+          "title": "Meeting Notes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "fff95qwwpngi2n6tkrgeg14",
+          "title": "Roles",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "q7dorodf01lzbobzeshnouw",
+          "title": "Timeframe & Milestones",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "vx480s0jpjrkvm14rhemql6",
+      "title": "🔌  Integrations",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "si16c9gn9c87iwzzvo7rq3r",
+          "title": "Dokan",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "sbgjw5csc45mbimwn14obrl",
+          "title": "Fancy Product Designer",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "1vyfnfy91ib38rh099akkq3",
+          "title": "RazorPay",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "da9jsoifdwjbpijtrwqfcr9",
+          "title": "WooCommerce",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "wjh4t42tqvskw52h06wbtvi",
+          "title": "Zoho Campaigns",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "lua8eh5tvun8rhca3e5qy28",
+      "title": "🔧  Maintinence",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": []
+    },
+    {
+      "key": "7l4pd9zwq7dtl7m6e6tyzgh",
+      "title": "💵  Pricing",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "7l4pd9zwq7dtl7m6e6tyzgh": null,
+    "lua8eh5tvun8rhca3e5qy28": null,
+    "vx480s0jpjrkvm14rhemql6": null,
+    "wjh4t42tqvskw52h06wbtvi": "vx480s0jpjrkvm14rhemql6",
+    "da9jsoifdwjbpijtrwqfcr9": "vx480s0jpjrkvm14rhemql6",
+    "1vyfnfy91ib38rh099akkq3": "vx480s0jpjrkvm14rhemql6",
+    "sbgjw5csc45mbimwn14obrl": "vx480s0jpjrkvm14rhemql6",
+    "si16c9gn9c87iwzzvo7rq3r": "vx480s0jpjrkvm14rhemql6",
+    "ylznqpn1jrbvdkq1g5ben10": null,
+    "fff95qwwpngi2n6tkrgeg14": "ylznqpn1jrbvdkq1g5ben10",
+    "q7dorodf01lzbobzeshnouw": "ylznqpn1jrbvdkq1g5ben10",
+    "l1udgesawkypusqo4dn65fd": "ylznqpn1jrbvdkq1g5ben10",
+    "xcq01jjbhv5pgrybxlh2h9e": "ylznqpn1jrbvdkq1g5ben10"
+  }
+}
